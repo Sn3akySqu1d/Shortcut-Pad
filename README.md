@@ -1,11 +1,4 @@
-Shortcut pad is a 6 key layered macropad. You can switch between layers using the last key.  
-The LEDs change colour to indicate the current layer.
-
-Layer 0: copy, paste, save, undo, redo
-
-Layer 1 emojis: 😭😂❤️💀👍
-
-Layer 2: task manager, comment, find, switch tab, terminal
+Shortcut pad is a 6 key layered macropad. You can switch between layers using the last key. the layers contain different macros.
 
 
 ![alt text](image.png)  
