@@ -1,5 +1,6 @@
 Shortcut pad is a 6 key layered macropad. You can switch between layers using the last key. the layers contain different macros.
 
+<img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/2b6d0529-7f73-4b37-9b14-6901fd621169" />
 
 ![alt text](image.png)  
 Schematic:  
