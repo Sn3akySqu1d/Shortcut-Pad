@@ -16,3 +16,4 @@ M3x16mm screws (4)
 3d printed case (top and bottom)  
 
 demo: https://www.reddit.com/user/Huge_Cartoonist5504/comments/1m5prar/shortcut_macropad/
+[submitted before yt was a requirement so there isnt one linked on the form]
